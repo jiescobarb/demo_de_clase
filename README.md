@@ -29,6 +29,14 @@ Este es otro texto. Ejemplo de codigo en python
 ## Seccion 3
 
 Haga lick [aqui](www.google.com) para ir a google 
+
+## Sección 4
+
+(Pendiente por montar)
+
+## Sección 5
+
+(Pendiente por montar)
    
    
    
